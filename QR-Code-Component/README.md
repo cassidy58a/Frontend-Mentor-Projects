@@ -19,6 +19,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 Create a site that copies the given design from:
 https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3cfe/start
 
+###Links
+Live View: https://frontend-mentor-projects-woad-ten.vercel.app/QR-Code-Component/QR-Code-Component.html
+
 ## My process
 Started with setting background colour
 Then uploaded the image from folder
